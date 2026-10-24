@@ -33,4 +33,3 @@ For offline use, put these three.js r128 files in a `lib/` folder:
 JavaScript, HTML/CSS, Three.js, Web Audio API.
 
 ## Credits
-Add credit and license details for the character, racket, shuttlecock and sounds here.
